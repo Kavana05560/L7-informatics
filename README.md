@@ -1,4 +1,3 @@
-# L7-informatics
 import sqlite3
 
 class ChocolateHouseDB:
